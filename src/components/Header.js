@@ -9,8 +9,8 @@ const Header = () => {
          <Navbar className='navbar-style' expand="lg">
           <Container>
              <Navbar.Brand href="#home" className='navbar-brand'> 
-             <Image className='img-style' src='335850 6.jpg' alt='img'/>
-             <h6 className='logo-text'>Global Virtual Academy for Peace & Education</h6>
+             <Image className='img-style' src='/images/VTU-IMG1.jpg' alt='img'/>
+             <h6 className='logo-text'> Vishweshwaraya Training Institute[VTU] </h6>
              </Navbar.Brand>
 
               <Navbar.Toggle aria-controls="basic-navbar-nav" />

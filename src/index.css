@@ -5,19 +5,25 @@
    
 }
 
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .navbar-brand p{
     color: white;
 }
 
 .logo-text{
-    margin: -30px 0px 10px -15px;   
+    margin: -30px 0px 10px -25px;  
+    font-size: 20px; 
+    text-decoration: underline;
 }
 
 
 .img-style{
-    width: 100px;
-    height: 100px;
-    margin-left: -120px;
+    width: 120px;
+    height: 120px;
+    margin-left: -150px;
     margin-top: -5px;
 }
 
@@ -25,4 +31,13 @@
     margin-right: -100px;
     font-size: 20px;
     
+}
+
+main{
+    min-height: 82vh;
+}
+
+footer{
+    background-color: rgba(47, 154, 248, 0.981);
+    padding: 10px;
 }
